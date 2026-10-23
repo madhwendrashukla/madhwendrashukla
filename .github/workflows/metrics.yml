@@ -22,8 +22,8 @@ jobs:
           template: classic
           config_timezone: Asia/Kolkata
 
-          # Header: "Joined GitHub X years ago", total commits, PRs, issues, repos
-          base: header, activity, community, repositories, metadata
+          # Header ("Joined GitHub X years ago"), commits, repo count
+          base: header, activity, repositories, metadata
 
           # Most-used languages, counting private repos too
           plugin_languages: yes
