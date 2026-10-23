@@ -13,6 +13,11 @@ on:
 permissions:
   contents: write
 
+# If several runs start close together (e.g. while uploading files), keep only the latest
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: true
+
 jobs:
   stats:
     runs-on: ubuntu-latest
@@ -30,7 +35,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/stats.svg
-          git diff --cached --quiet || (git commit -m "Update stats card" && git push)
+          git diff --cached --quiet && exit 0
+          git commit -m "Update stats card"
+          # main may have moved since checkout (another commit landed): rebase, then push
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1
 
   metrics:
     needs: stats
