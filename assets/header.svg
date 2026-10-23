@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200">
+  <rect x="0.5" y="0.5" width="999" height="199" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <g font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif">
+    <text x="48" y="84" font-size="44" font-weight="700" fill="#0F172A">Madhwendra Shukla</text>
+    <rect x="50" y="102" width="56" height="3" rx="1.5" fill="#2563EB"/>
+    <text x="48" y="140" font-size="19" font-weight="600" fill="#2563EB">Full-stack &amp; AI builder</text>
+    <text x="48" y="168" font-size="15" fill="#64748B">Writing code since 2021 · Android · Flutter · Next.js · Node.js · PostgreSQL · AWS</text>
+  </g>
+</svg>
