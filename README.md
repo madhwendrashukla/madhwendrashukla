@@ -1,6 +1,6 @@
 <img src="assets/header.svg" alt="Madhwendra Shukla — Full-stack & AI builder" width="100%" />
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmadhwendrashukla&label=Profile%20views&labelColor=%2364748B&countColor=%232563EB&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=madhwendrashukla&label=Profile%20views&color=2563EB&style=flat-square" alt="Profile views" />
 
 <img src="assets/stats.svg" alt="Years on GitHub, contributions, commits, repositories and app downloads" width="100%" />
 
