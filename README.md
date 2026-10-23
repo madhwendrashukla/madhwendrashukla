@@ -1,38 +1,79 @@
 <h1 align="center">Hi 👋, I'm Madhwendra Shukla</h1>
-<h3 align="center">A programmer who loves to play with code</h3>
+<h3 align="center">Full-stack & AI builder · Writing code since 2021 · Shipping products from idea to deployed</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhwendrashukla&label=Profile%20views&color=0e75b6&style=flat" alt="madhwendrashukla" /> </p>
-
-- 🔭 I’m currently working with [Papaya Coders](https://papayacoders.in/)
-
-- 🌱 I’m currently learning **Advance android development,Flutter,Web app development,javascript,ReactJs**
-
-- 💬 Ask me about **All stuffs in android**
-
-- 📫 How to reach me **madhwendrashukla37@gmail.com**
-
-- ⚡ Fun fact **I think you can,t ignore me.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/madhwendra-shukla-77a13920b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhwendra-shukla-77a13920b" height="30" width="40" /></a>
-<a href="https://fb.com/madhwendrashukla1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madhwendrashukla1" height="30" width="40" /></a>
-<a href="https://instagram.com/madhwendra_shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhwendra_shukla" height="30" width="40" /></a>
-<a href="https://medium.com/@madhwendrashukla37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@madhwendrashukla37" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/papaya coders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="capaya coders" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/madhwendra-shukla-77a13920b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:madhwendrashukla37@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/MadhwendraShuk2"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://medium.com/@madhwendrashukla37"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-   </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-   </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-   </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=madhwendrashukla&label=Profile%20views&color=7C3AED&style=flat" />
+  <img src="https://img.shields.io/badge/On%20GitHub%20since-2020-181717?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/On%20LinkedIn%20since-[YEAR]-0A66C2?style=flat&logo=linkedin" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhwendrashukla&show_icons=true&locale=en&layout=compact" alt="madhwendrashukla" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhwendrashukla&show_icons=true&locale=en" alt="madhwendrashukla" /></p>
+### 🧑‍💻 About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhwendrashukla&" alt="madhwendrashukla" /></p>
+- 🎓 BBA in Digital Business & Entrepreneurship at **IIM Bangalore**
+- 🛠️ Founder's Office at **Setu — The Startup School**: built the platform backend (Node.js, Prisma, PostgreSQL, Socket.io, Razorpay on AWS)
+- 📱 Android Developer Intern at **[Papaya Coders](https://papayacoders.in/)** (2025): native apps, client projects since 2021, and tech content for their [YouTube channel]([YOUTUBE_LINK])
+- 🚀 Co-founded **Hostelpedia**, a student housing platform (2023–2025)
+- 🤖 Now building AI products on LLM APIs: content ingestion, structured generation, learning analytics
+- 💬 Ask me about: shipping MVPs fast, Node.js backends, Android, LLM integrations, payments
 
+---
+
+### 🚀 Top projects
+
+<!-- Fill these in once you have the links. Delete a row rather than leave a dead link. -->
+
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **[PROJECT_1]** | [Problem → what it does → who it's for] | [Stack] | [Repo]([LINK]) · [Live]([LINK]) |
+| **[PROJECT_2]** | [Problem → what it does → who it's for] | [Stack] | [Repo]([LINK]) · [Live]([LINK]) |
+| **[PROJECT_3]** | [Problem → what it does → who it's for] | [Stack] | [Repo]([LINK]) · [Live]([LINK]) |
+| **[PROJECT_4]** | [Problem → what it does → who it's for] | [Stack] | [Repo]([LINK]) · [Live]([LINK]) |
+
+<details>
+<summary><b>Earlier Android work (2021–2025)</b></summary>
+<br>
+
+Native Android apps in Java and Kotlin: [VoiceChanger](https://github.com/madhwendrashukla/VoiceChanger) · [Wallpaper App](https://github.com/madhwendrashukla/Wallpaperapp) · [Score Counter](https://github.com/madhwendrashukla/Score-Couter)
+
+</details>
+
+---
+
+### 🛠️ Tech stack
+
+**AI / LLM**<br>
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+**Languages, frameworks & tools**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,nextjs,react,prisma,postgres,supabase,firebase,kotlin,java,androidstudio,flutter,python,aws,vercel,git,linux,arduino&perline=10" />
+
+<!-- Keep only what you can defend in an interview. Remove an icon by deleting its name from the list above. -->
+
+---
+
+### 📊 GitHub activity (public + private repos)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=madhwendrashukla&theme=dark&hide_border=true&date_format=M%20Y" alt="Total contributions since joining" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/madhwendrashukla/madhwendrashukla/main/metrics.svg" alt="Detailed GitHub metrics including private repositories" />
+</p>
+
+---
+
+### 🏆 Recognition
+
+- 🥇 **1st place**, "Business Crisis" entrepreneurship case competition, KNIT Sultanpur
+- 🎯 Completed the **IIM Ranchi Innovate & Impact Programme** (Nov 2025)
