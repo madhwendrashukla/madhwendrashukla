@@ -1,17 +1,39 @@
-# Generates metrics.svg (account age, total commits, languages incl. private repos)
-# and commits it to this repo. Runs daily, on every push, and on demand.
+# 1) stats:   builds assets/stats.svg (years on GitHub, all-time contributions + commits incl. private, repos)
+# 2) metrics: builds metrics.svg (most-used languages incl. private repos + contribution calendar)
+# Runs daily, on manual trigger, and when you push to main.
 name: Metrics
 
 on:
   schedule: [{ cron: "30 0 * * *" }]   # daily, 06:00 IST
   workflow_dispatch:
-  push: { branches: ["main", "master"] }
+  push:
+    branches: ["main"]
+    paths-ignore: ["assets/stats.svg", "metrics.svg"]
 
 permissions:
   contents: write
 
 jobs:
-  github-metrics:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Build stats card
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: node scripts/stats.mjs
+      - name: Commit stats card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg
+          git diff --cached --quiet || (git commit -m "Update stats card" && git push)
+
+  metrics:
+    needs: stats
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -22,16 +44,14 @@ jobs:
           template: classic
           config_timezone: Asia/Kolkata
 
-          # Header ("Joined GitHub X years ago"), commits, repo count
-          base: header, activity, repositories, metadata
+          # Header/activity now live in assets/stats.svg, so only languages + calendar here
+          base: ""
 
-          # Most-used languages, counting private repos too
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_ignored: html, css, scss, makefile, dockerfile, shell, batchfile
 
-          # Year-round contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
