@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif">
   <g>
     <rect x="0.5" y="0.5" width="190.2" height="119" rx="12" fill="#FFFFFF" stroke="#E5E7EB"/>
-    <text x="95.6" y="56" text-anchor="middle" font-size="30" font-weight="700" fill="#0F172A">5+ yrs</text>
+    <text x="95.6" y="56" text-anchor="middle" font-size="30" font-weight="700" fill="#0F172A">6+ yrs</text>
     <text x="95.6" y="82" text-anchor="middle" font-size="14" font-weight="600" fill="#2563EB">on GitHub</text>
     <text x="95.6" y="102" text-anchor="middle" font-size="12" fill="#94A3B8">since Nov 2020</text>
   </g>
