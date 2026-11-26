@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="200" viewBox="0 0 350 200" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif">
+  <defs>
+    <linearGradient id="lbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1026"/>
+      <stop offset="1" stop-color="#1B1145"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="349" height="199" rx="16" fill="url(#lbg)" stroke="#2D2A6B"/>
+  <text x="22" y="32" font-size="16" font-weight="700" fill="#00E5FF">Most Used Languages</text>
+  <text x="328" y="32" text-anchor="end" font-size="11" fill="#8B93C9">public + private</text>
+  <circle cx="28" cy="54" r="4.5" fill="#3178c6"/>
+    <text x="40" y="58" font-size="12" fill="#C9D1FF">TypeScript <tspan fill="#8B93C9">46.76%</tspan></text>
+    <circle cx="28" cy="71" r="4.5" fill="#b07219"/>
+    <text x="40" y="75" font-size="12" fill="#C9D1FF">Java <tspan fill="#8B93C9">25.52%</tspan></text>
+    <circle cx="28" cy="88" r="4.5" fill="#A97BFF"/>
+    <text x="40" y="92" font-size="12" fill="#C9D1FF">Kotlin <tspan fill="#8B93C9">17.35%</tspan></text>
+    <circle cx="28" cy="105" r="4.5" fill="#f1e05a"/>
+    <text x="40" y="109" font-size="12" fill="#C9D1FF">JavaScript <tspan fill="#8B93C9">9.05%</tspan></text>
+    <circle cx="28" cy="122" r="4.5" fill="#336790"/>
+    <text x="40" y="126" font-size="12" fill="#C9D1FF">PLpgSQL <tspan fill="#8B93C9">0.55%</tspan></text>
+    <circle cx="28" cy="139" r="4.5" fill="#3572A5"/>
+    <text x="40" y="143" font-size="12" fill="#C9D1FF">Python <tspan fill="#8B93C9">0.31%</tspan></text>
+    <circle cx="28" cy="156" r="4.5" fill="#f34b7d"/>
+    <text x="40" y="160" font-size="12" fill="#C9D1FF">C++ <tspan fill="#8B93C9">0.28%</tspan></text>
+    <circle cx="28" cy="173" r="4.5" fill="#00B4AB"/>
+    <text x="40" y="177" font-size="12" fill="#C9D1FF">Dart <tspan fill="#8B93C9">0.18%</tspan></text>
+  <circle cx="272" cy="112" r="46" fill="none" stroke="#3178c6" stroke-width="14"
+        stroke-dasharray="135.16 153.87" stroke-dashoffset="0.00"
+        transform="rotate(-90 272 112)"/><circle cx="272" cy="112" r="46" fill="none" stroke="#b07219" stroke-width="14"
+        stroke-dasharray="73.77 215.26" stroke-dashoffset="-135.16"
+        transform="rotate(-90 272 112)"/><circle cx="272" cy="112" r="46" fill="none" stroke="#A97BFF" stroke-width="14"
+        stroke-dasharray="50.14 238.89" stroke-dashoffset="-208.93"
+        transform="rotate(-90 272 112)"/><circle cx="272" cy="112" r="46" fill="none" stroke="#f1e05a" stroke-width="14"
+        stroke-dasharray="26.16 262.86" stroke-dashoffset="-259.06"
+        transform="rotate(-90 272 112)"/><circle cx="272" cy="112" r="46" fill="none" stroke="#336790" stroke-width="14"
+        stroke-dasharray="1.58 287.44" stroke-dashoffset="-285.23"
+        transform="rotate(-90 272 112)"/><circle cx="272" cy="112" r="46" fill="none" stroke="#3572A5" stroke-width="14"
+        stroke-dasharray="0.88 288.14" stroke-dashoffset="-286.81"
+        transform="rotate(-90 272 112)"/><circle cx="272" cy="112" r="46" fill="none" stroke="#f34b7d" stroke-width="14"
+        stroke-dasharray="0.81 288.21" stroke-dashoffset="-287.70"
+        transform="rotate(-90 272 112)"/><circle cx="272" cy="112" r="46" fill="none" stroke="#00B4AB" stroke-width="14"
+        stroke-dasharray="0.51 288.51" stroke-dashoffset="-288.51"
+        transform="rotate(-90 272 112)"/>
+</svg>

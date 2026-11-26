@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif">
+  <defs>
+    <linearGradient id="ybg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1026"/>
+      <stop offset="1" stop-color="#1B1145"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#7C4DFF"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="269" rx="16" fill="url(#ybg)" stroke="#2D2A6B"/>
+  <text x="28" y="40" font-size="18" font-weight="700" fill="#00E5FF">Contributions by Year</text>
+  <text x="972" y="40" text-anchor="end" font-size="12" fill="#8B93C9">public + private</text>
+  <line x1="40" y1="222" x2="960" y2="222" stroke="#2D2A6B"/>
+  <rect x="69.7" y="219.0" width="72.0" height="3.0" rx="6" fill="url(#bar)"/>
+  <text x="105.7" y="211.0" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">1</text>
+  <text x="105.7" y="246" text-anchor="middle" font-size="13" fill="#8B93C9">2020</text>
+  <rect x="201.1" y="196.2" width="72.0" height="25.8" rx="6" fill="url(#bar)"/>
+  <text x="237.1" y="188.2" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">113</text>
+  <text x="237.1" y="246" text-anchor="middle" font-size="13" fill="#8B93C9">2021</text>
+  <rect x="332.6" y="215.6" width="72.0" height="6.4" rx="6" fill="url(#bar)"/>
+  <text x="368.6" y="207.6" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">28</text>
+  <text x="368.6" y="246" text-anchor="middle" font-size="13" fill="#8B93C9">2022</text>
+  <rect x="464.0" y="167.2" width="72.0" height="54.8" rx="6" fill="url(#bar)"/>
+  <text x="500.0" y="159.2" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">240</text>
+  <text x="500.0" y="246" text-anchor="middle" font-size="13" fill="#8B93C9">2023</text>
+  <rect x="595.4" y="210.4" width="72.0" height="11.6" rx="6" fill="url(#bar)"/>
+  <text x="631.4" y="202.4" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">51</text>
+  <text x="631.4" y="246" text-anchor="middle" font-size="13" fill="#8B93C9">2024</text>
+  <rect x="726.9" y="214.2" width="72.0" height="7.8" rx="6" fill="url(#bar)"/>
+  <text x="762.9" y="206.2" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">34</text>
+  <text x="762.9" y="246" text-anchor="middle" font-size="13" fill="#8B93C9">2025</text>
+  <rect x="858.3" y="78.0" width="72.0" height="144.0" rx="6" fill="url(#bar)"/>
+  <text x="894.3" y="70.0" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">631</text>
+  <text x="894.3" y="246" text-anchor="middle" font-size="13" fill="#8B93C9">2026</text>
+</svg>
