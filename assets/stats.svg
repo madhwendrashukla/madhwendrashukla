@@ -1,32 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1026"/>
+      <stop offset="1" stop-color="#1B1145"/>
+    </linearGradient>
+  </defs>
   <g>
-    <rect x="0.5" y="0.5" width="190.2" height="119" rx="12" fill="#FFFFFF" stroke="#E5E7EB"/>
-    <text x="95.6" y="56" text-anchor="middle" font-size="30" font-weight="700" fill="#0F172A">6+ yrs</text>
-    <text x="95.6" y="82" text-anchor="middle" font-size="14" font-weight="600" fill="#2563EB">on GitHub</text>
-    <text x="95.6" y="102" text-anchor="middle" font-size="12" fill="#94A3B8">since Nov 2020</text>
+    <rect x="0.5" y="0.5" width="190.2" height="129" rx="16" fill="url(#bg)" stroke="#2D2A6B"/>
+    <text x="95.6" y="60" text-anchor="middle" font-size="32" font-weight="700" fill="#00E5FF">6+ yrs</text>
+    <text x="95.6" y="88" text-anchor="middle" font-size="14" font-weight="600" fill="#FFFFFF">on GitHub</text>
+    <text x="95.6" y="110" text-anchor="middle" font-size="12" fill="#8B93C9">since Nov 2020</text>
   </g>
   <g>
-    <rect x="202.7" y="0.5" width="190.2" height="119" rx="12" fill="#FFFFFF" stroke="#E5E7EB"/>
-    <text x="297.79999999999995" y="56" text-anchor="middle" font-size="30" font-weight="700" fill="#0F172A">1,092</text>
-    <text x="297.79999999999995" y="82" text-anchor="middle" font-size="14" font-weight="600" fill="#2563EB">contributions</text>
-    <text x="297.79999999999995" y="102" text-anchor="middle" font-size="12" fill="#94A3B8">all years</text>
+    <rect x="202.7" y="0.5" width="190.2" height="129" rx="16" fill="url(#bg)" stroke="#2D2A6B"/>
+    <text x="297.79999999999995" y="60" text-anchor="middle" font-size="32" font-weight="700" fill="#00E5FF">1,093</text>
+    <text x="297.79999999999995" y="88" text-anchor="middle" font-size="14" font-weight="600" fill="#FFFFFF">contributions</text>
+    <text x="297.79999999999995" y="110" text-anchor="middle" font-size="12" fill="#8B93C9">all years</text>
   </g>
   <g>
-    <rect x="404.9" y="0.5" width="190.2" height="119" rx="12" fill="#FFFFFF" stroke="#E5E7EB"/>
-    <text x="500" y="56" text-anchor="middle" font-size="30" font-weight="700" fill="#0F172A">1,003</text>
-    <text x="500" y="82" text-anchor="middle" font-size="14" font-weight="600" fill="#2563EB">commits</text>
-    <text x="500" y="102" text-anchor="middle" font-size="12" fill="#94A3B8">public + private</text>
+    <rect x="404.9" y="0.5" width="190.2" height="129" rx="16" fill="url(#bg)" stroke="#2D2A6B"/>
+    <text x="500" y="60" text-anchor="middle" font-size="32" font-weight="700" fill="#00E5FF">1,004</text>
+    <text x="500" y="88" text-anchor="middle" font-size="14" font-weight="600" fill="#FFFFFF">commits</text>
+    <text x="500" y="110" text-anchor="middle" font-size="12" fill="#8B93C9">public + private</text>
   </g>
   <g>
-    <rect x="607.0999999999999" y="0.5" width="190.2" height="119" rx="12" fill="#FFFFFF" stroke="#E5E7EB"/>
-    <text x="702.1999999999999" y="56" text-anchor="middle" font-size="30" font-weight="700" fill="#0F172A">82</text>
-    <text x="702.1999999999999" y="82" text-anchor="middle" font-size="14" font-weight="600" fill="#2563EB">repositories</text>
-    <text x="702.1999999999999" y="102" text-anchor="middle" font-size="12" fill="#94A3B8">public + private</text>
+    <rect x="607.0999999999999" y="0.5" width="190.2" height="129" rx="16" fill="url(#bg)" stroke="#2D2A6B"/>
+    <text x="702.1999999999999" y="60" text-anchor="middle" font-size="32" font-weight="700" fill="#00E5FF">82</text>
+    <text x="702.1999999999999" y="88" text-anchor="middle" font-size="14" font-weight="600" fill="#FFFFFF">repositories</text>
+    <text x="702.1999999999999" y="110" text-anchor="middle" font-size="12" fill="#8B93C9">public + private</text>
   </g>
   <g>
-    <rect x="809.3" y="0.5" width="190.2" height="119" rx="12" fill="#FFFFFF" stroke="#E5E7EB"/>
-    <text x="904.4" y="56" text-anchor="middle" font-size="30" font-weight="700" fill="#0F172A">60K+</text>
-    <text x="904.4" y="82" text-anchor="middle" font-size="14" font-weight="600" fill="#2563EB">app downloads</text>
-    <text x="904.4" y="102" text-anchor="middle" font-size="12" fill="#94A3B8">on Google Play</text>
+    <rect x="809.3" y="0.5" width="190.2" height="129" rx="16" fill="url(#bg)" stroke="#2D2A6B"/>
+    <text x="904.4" y="60" text-anchor="middle" font-size="32" font-weight="700" fill="#00E5FF">60K+</text>
+    <text x="904.4" y="88" text-anchor="middle" font-size="14" font-weight="600" fill="#FFFFFF">app downloads</text>
+    <text x="904.4" y="110" text-anchor="middle" font-size="12" fill="#8B93C9">on Google Play</text>
   </g>
 </svg>
