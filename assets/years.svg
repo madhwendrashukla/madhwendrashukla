@@ -16,22 +16,22 @@
   <rect x="69.7" y="219.0" width="72.0" height="3.0" rx="6" fill="url(#bar)"/>
   <text x="105.7" y="211.0" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">1</text>
   <text x="105.7" y="246" text-anchor="middle" font-size="13" fill="#8B93C9">2020</text>
-  <rect x="201.1" y="196.2" width="72.0" height="25.8" rx="6" fill="url(#bar)"/>
-  <text x="237.1" y="188.2" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">113</text>
+  <rect x="201.1" y="196.3" width="72.0" height="25.7" rx="6" fill="url(#bar)"/>
+  <text x="237.1" y="188.3" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">113</text>
   <text x="237.1" y="246" text-anchor="middle" font-size="13" fill="#8B93C9">2021</text>
   <rect x="332.6" y="215.6" width="72.0" height="6.4" rx="6" fill="url(#bar)"/>
   <text x="368.6" y="207.6" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">28</text>
   <text x="368.6" y="246" text-anchor="middle" font-size="13" fill="#8B93C9">2022</text>
-  <rect x="464.0" y="167.2" width="72.0" height="54.8" rx="6" fill="url(#bar)"/>
-  <text x="500.0" y="159.2" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">240</text>
+  <rect x="464.0" y="167.3" width="72.0" height="54.7" rx="6" fill="url(#bar)"/>
+  <text x="500.0" y="159.3" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">240</text>
   <text x="500.0" y="246" text-anchor="middle" font-size="13" fill="#8B93C9">2023</text>
   <rect x="595.4" y="210.4" width="72.0" height="11.6" rx="6" fill="url(#bar)"/>
   <text x="631.4" y="202.4" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">51</text>
   <text x="631.4" y="246" text-anchor="middle" font-size="13" fill="#8B93C9">2024</text>
-  <rect x="726.9" y="214.2" width="72.0" height="7.8" rx="6" fill="url(#bar)"/>
-  <text x="762.9" y="206.2" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">34</text>
+  <rect x="726.9" y="214.3" width="72.0" height="7.7" rx="6" fill="url(#bar)"/>
+  <text x="762.9" y="206.3" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">34</text>
   <text x="762.9" y="246" text-anchor="middle" font-size="13" fill="#8B93C9">2025</text>
   <rect x="858.3" y="78.0" width="72.0" height="144.0" rx="6" fill="url(#bar)"/>
-  <text x="894.3" y="70.0" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">631</text>
+  <text x="894.3" y="70.0" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">632</text>
   <text x="894.3" y="246" text-anchor="middle" font-size="13" fill="#8B93C9">2026</text>
 </svg>
