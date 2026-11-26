@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1026,45:3b1f8f,100:00b8d4&height=230&section=header&text=Madhwendra%20Shukla&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20%26%20AI%20Builder%20%C2%B7%20Writing%20code%20since%202021&descSize=20&descAlignY=58" width="100%" alt="Madhwendra Shukla header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1026,45:3b1f8f,100:00b8d4&height=230&section=header&text=Madhwendra%20Shukla&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20and%20AI%20Builder%20%C2%B7%20Writing%20code%20since%202021&descSize=20&descAlignY=58" width="100%" alt="Madhwendra Shukla header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=BBA+(DBE)+%40+IIM+Bangalore;From+Android+apps+to+backend+stacks;60K%2B+app+downloads+on+Google+Play;Shipping+products+from+idea+%E2%86%92+production" alt="Typing animation" />
@@ -24,7 +24,7 @@
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 
-## 👋 About Me
+## About Me
 
 From Android apps to backend stacks: native apps in **Java and Kotlin**, cross-platform apps in **Flutter**, web apps in **Next.js and React**, and real-time backends on **Node.js, PostgreSQL and Socket.io**, with payments on **Razorpay** and deployment on **AWS**.
 
@@ -36,16 +36,16 @@ writing_code_since: 2021
 builds_with: [Claude Code, Claude API, OpenAI API]
 ```
 
-### 🔭 What I Build
-- 🌐 Full-stack web platforms with payments, CMS and admin panels
-- 📱 Android apps in Java and Kotlin, and cross-platform apps in Flutter
-- ⚡ Real-time backends with Node.js, PostgreSQL and Socket.io
-- 🤖 AI-first products, built fast with AI coding tools
-- 🚀 Ideas to live products in hours, not weeks
+### What I Build
+- Full-stack web platforms with payments, CMS and admin panels
+- Android apps in Java and Kotlin, and cross-platform apps in Flutter
+- Real-time backends with Node.js, PostgreSQL and Socket.io
+- AI-first products, built fast with AI coding tools
+- Ideas to live products in hours, not weeks
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it is | Stack | Link |
 |---|---|---|---|
@@ -56,7 +56,7 @@ builds_with: [Claude Code, Claude API, OpenAI API]
 | **Setu Startup School** | Founder-education platform: events, workshop registrations, payments and an admin CMS. | `Node.js` `Prisma` `PostgreSQL` `Razorpay` `AWS EC2` `AWS S3` `Nginx` | [setustartupschool.com](https://setustartupschool.com) |
 | **PostPolish** | Rich-text editor that adds bold, italics and lists to LinkedIn posts. | `Next.js` `TypeScript` `TipTap` `Tailwind` | [Live](https://post-polish-linkedin.vercel.app/) · [Code](https://github.com/madhwendrashukla/PostPolish-Linkedin) |
 
-### 📱 Live on Google Play
+### Live on Google Play
 
 | App | What it is | Downloads | Link |
 |---|---|---|---|
@@ -64,7 +64,7 @@ builds_with: [Claude Code, Claude API, OpenAI API]
 | **HostelPedia** | Search and book hostels and PGs near campus. | **500+** | [Google Play](https://play.google.com/store/apps/details?id=com.hostelpedia) |
 | **Birthday Wishes in Marathi** | Marathi birthday messages and shayari to copy or share on WhatsApp. | **10K+** | [Google Play](https://play.google.com/store/apps/details?id=in.papayacoders.valentineapp) |
 
-### 🧪 More Builds
+### More Builds
 
 | Project | What it is | Stack | Link |
 |---|---|---|---|
@@ -74,7 +74,7 @@ builds_with: [Claude Code, Claude API, OpenAI API]
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -105,7 +105,7 @@ builds_with: [Claude Code, Claude API, OpenAI API]
 
 <!-- ═══════════════ GITHUB STATS ═══════════════ -->
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -113,14 +113,14 @@ builds_with: [Claude Code, Claude API, OpenAI API]
 
 <br/><br/>
 
-<img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=madhwendrashukla&layout=donut&langs_count=8&border_radius=16&bg_color=135,0b1026,1b1145&title_color=00E5FF&text_color=C9D1FF&icon_color=FF4D8D&ring_color=00E5FF&border_color=2D2A6B&hide_border=false" alt="Top languages" />
+<img height="200" src="assets/languages.svg" alt="Most used languages, public + private repositories" />
 <img height="200" src="https://streak-stats.demolab.com/?user=madhwendrashukla&background=135,0b1026,1b1145&border=2D2A6B&stroke=2D2A6B&ring=00E5FF&fire=FF4D8D&currStreakNum=FFFFFF&sideNums=00E5FF&currStreakLabel=FF4D8D&sideLabels=C9D1FF&dates=8B93C9&border_radius=16&hide_border=false" alt="GitHub streak" />
 
 <br/>
 
 </div>
 
-### 🏙️ 3D Contribution Skyline
+### 3D Contribution Skyline
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/madhwendrashukla/madhwendrashukla/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" width="100%" />
@@ -130,7 +130,7 @@ builds_with: [Claude Code, Claude API, OpenAI API]
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
 
-## 🤝 Let's Connect
+## Let's Connect
 
 Building something with tech, or want a product taken from idea to production? I'm always up for a conversation.
 
