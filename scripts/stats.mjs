@@ -69,7 +69,8 @@ function render({ createdAt, contributions, commits, repos }) {
     { value: APP_DOWNLOADS, label: "app downloads", sub: "on Google Play" },
   ];
 
-  const W = 1000, H = 120, gap = 12, pad = 0.5;
+  // Dark theme matching the profile's GitHub Stats cards
+  const W = 1000, H = 130, gap = 12, pad = 0.5;
   const tw = (W - pad * 2 - gap * (tiles.length - 1)) / tiles.length;
   const font = "'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif";
 
@@ -79,21 +80,27 @@ function render({ createdAt, contributions, commits, repos }) {
       const cx = x + tw / 2;
       return `
   <g>
-    <rect x="${x}" y="0.5" width="${tw}" height="${H - 1}" rx="12" fill="#FFFFFF" stroke="#E5E7EB"/>
-    <text x="${cx}" y="56" text-anchor="middle" font-size="30" font-weight="700" fill="#0F172A">${t.value}</text>
-    <text x="${cx}" y="82" text-anchor="middle" font-size="14" font-weight="600" fill="#2563EB">${t.label}</text>
-    <text x="${cx}" y="102" text-anchor="middle" font-size="12" fill="#94A3B8">${t.sub}</text>
+    <rect x="${x}" y="0.5" width="${tw}" height="${H - 1}" rx="16" fill="url(#bg)" stroke="#2D2A6B"/>
+    <text x="${cx}" y="60" text-anchor="middle" font-size="32" font-weight="700" fill="#00E5FF">${t.value}</text>
+    <text x="${cx}" y="88" text-anchor="middle" font-size="14" font-weight="600" fill="#FFFFFF">${t.label}</text>
+    <text x="${cx}" y="110" text-anchor="middle" font-size="12" fill="#8B93C9">${t.sub}</text>
   </g>`;
     })
     .join("");
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" font-family="${font}">${cells}
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" font-family="${font}">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1026"/>
+      <stop offset="1" stop-color="#1B1145"/>
+    </linearGradient>
+  </defs>${cells}
 </svg>
 `;
 }
 
 const data = process.env.MOCK
-  ? { createdAt: "2020-11-14T10:00:00Z", contributions: 1054, commits: 943, repos: 80 }
+  ? { createdAt: "2020-11-10T10:00:00Z", contributions: 1092, commits: 1003, repos: 82 }
   : await fetchStats();
 mkdirSync(OUT.split("/").slice(0, -1).join("/") || ".", { recursive: true });
 writeFileSync(OUT, render(data));
