@@ -109,12 +109,12 @@ builds_with: [Claude Code, Claude API, OpenAI API]
 
 <div align="center">
 
-<img height="200" src="https://github-readme-stats.shion.dev/api?username=madhwendrashukla&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=16&bg_color=135,0b1026,1b1145&title_color=00E5FF&text_color=C9D1FF&icon_color=FF4D8D&ring_color=00E5FF&border_color=2D2A6B&hide_border=false" alt="GitHub stats" />
+<img src="assets/stats.svg" width="100%" alt="Years on GitHub, contributions, commits and repositories (public + private), app downloads" />
+
+<br/><br/>
+
 <img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=madhwendrashukla&layout=donut&langs_count=8&border_radius=16&bg_color=135,0b1026,1b1145&title_color=00E5FF&text_color=C9D1FF&icon_color=FF4D8D&ring_color=00E5FF&border_color=2D2A6B&hide_border=false" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=madhwendrashukla&background=135,0b1026,1b1145&border=2D2A6B&stroke=2D2A6B&ring=00E5FF&fire=FF4D8D&currStreakNum=FFFFFF&sideNums=00E5FF&currStreakLabel=FF4D8D&sideLabels=C9D1FF&dates=8B93C9&border_radius=16&hide_border=false" alt="GitHub streak" />
+<img height="200" src="https://streak-stats.demolab.com/?user=madhwendrashukla&background=135,0b1026,1b1145&border=2D2A6B&stroke=2D2A6B&ring=00E5FF&fire=FF4D8D&currStreakNum=FFFFFF&sideNums=00E5FF&currStreakLabel=FF4D8D&sideLabels=C9D1FF&dates=8B93C9&border_radius=16&hide_border=false" alt="GitHub streak" />
 
 <br/>
 
